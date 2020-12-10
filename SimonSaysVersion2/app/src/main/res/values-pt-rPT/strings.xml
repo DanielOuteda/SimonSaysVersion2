@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimonDiz</string>
+    <string name="red">Vermelho</string>
+    <string name="blue">Azul</string>
+    <string name="yellow">Amarelo</string>
+    <string name="green">Verde</string>
+    <string name="round">Volta</string>
+    <string name="start">Começar</string>
+</resources>
